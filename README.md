@@ -1,6 +1,11 @@
 # Small dogApp
-
 Goal: Get to know a bit more React, javascript.
+
+## Version
+
+dogApp version 1.0.0
+Go 1.20
+npm 9.6.0
 
 ## Backend
 
@@ -36,6 +41,7 @@ Frontend contains HTML, CSS & javascript using webpack.
 Instructions:
 ```
 cd frontend
+npm install
 npm start
 ```
 
