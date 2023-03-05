@@ -1,0 +1,6 @@
+Tosca;Border Collie;Black/White
+Marie;Berner Sennen;Black/White
+Laika;Golden Retriever;Gold
+Billy;Australian Shepherd;Grey
+Lila;Spaniel;Gold
+Juicy;Border Collie;Black/White
